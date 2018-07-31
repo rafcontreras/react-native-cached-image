@@ -199,7 +199,8 @@ class CachedImage extends React.Component {
             if (LoadingIndicator) {
                 return (
                     <View style={[imageStyle, activityIndicatorStyle]}>
-                        <LoadingIndicator {...activityIndicatorProps} />
+                        {/*<LoadingIndicator {...activityIndicatorProps} />*/}
+                        {LoadingIndicator}
                     </View>
                 );
             }

@@ -3,6 +3,7 @@
   "version": "1.4.3",
   "description": "CachedImage component for react-native",
   "main": "index.js",
+  "homepage": "https://github.com/kfiroo/react-native-cached-image",
   "scripts": {
     "test": "./node_modules/.bin/jest"
   },

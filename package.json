@@ -48,10 +48,12 @@
   ],
   "typings": "./index.d.ts",
   "dependencies": {
+    "@react-native-community/netinfo": "5.9.7",
     "crypto-js": "3.1.9-1",
     "lodash": "4.17.4",
     "prop-types": "15.5.10",
     "react-native-clcasher": "1.0.0",
+    "rn-fetch-blob": "0.12.0",
     "url-parse": "1.1.9"
   },
   "devDependencies": {
